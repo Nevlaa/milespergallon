@@ -1,0 +1,13 @@
+/*
+********************************
+Scott Horsburgh
+MPG Application
+06/12/2019
+********************************
+*/
+#mpgMessage{
+	border: 1px solid black; 
+	box-shadow: 5px 10px 8px #888888; 
+	padding-left: 10px; 
+	width: 40%;
+}
